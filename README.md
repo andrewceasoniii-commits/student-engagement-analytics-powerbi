@@ -12,6 +12,15 @@ a structured semantic model that enables dynamic, context-aware
 analytics while maintaining strong data governance standards.
 
 ------------------------------------------------------------------------
+## ✅ Progress Update (Feb 2026)
+
+**Engagement Score Improvements**
+- Added **Expected Engagement Months** (excludes summer months) to adjust engagement expectations.
+- Updated engagement components to use **pace-based scoring**:
+  - Coaching Minutes per Expected Month
+  - Group Activities Attended per Expected Month
+  - Goals vs Expected Goals (1 goal per 6 expected months)
+- Engagement score now reflects fair expectations across students with different program tenures.
 
 ## 🎯 Business Problem
 
