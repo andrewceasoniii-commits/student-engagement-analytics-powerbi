@@ -22,6 +22,7 @@ analytics while maintaining strong data governance standards.
   - Goals vs Expected Goals (1 goal per 6 expected months)
 - Engagement score now reflects fair expectations across students with different program tenures.
 
+------------------------------------------------------------------------
 ## 🎯 Business Problem
 
 Academic advisors and program leadership require tools to:
